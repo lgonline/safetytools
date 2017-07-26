@@ -22,7 +22,7 @@ def retBanner(ip,port):
         print 'No ftp server in here!'
 
 def main():
-    ip1 = '192.168.1.10'
+    ip1 = '192.168.10.143'
     port = 21
 
     banner1 = retBanner(ip1,port)
