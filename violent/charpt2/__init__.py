@@ -1,13 +1,22 @@
-#!/usr/bin/env python
-# encoding: utf-8
+#!/usr/bin/env python  
+# encoding: utf-8   
 
-"""
-@project: safetytools
+""" 
 @author: root
-@software: PyCharm
-@file: safetytools 
-@time: 7/25/17
+@software: PyCharm 
+@file: __init__.py.py 
+@time: 7/25/17 10:46 PM 
 """
 
-if __name__ == '__main__':
+
+def func():
     pass
+
+
+class Main():
+    def __init__(self):
+        pass
+
+
+if __name__ == "__main__":
+    pass  
