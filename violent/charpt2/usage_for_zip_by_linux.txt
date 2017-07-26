@@ -1,4 +1,4 @@
- Linux下zip加密压缩
+Linux下zip加密压缩
 
 # zip -rP abc#123 test.zip test.txt
 
